@@ -1,0 +1,13 @@
+Number of Q-nodes = 0                                                          
+PearsonRResult(statistic=0.6946167167385708, pvalue=9.318972528355116e-07)
+SpearmanrResult(correlation=0.5675262394375716, pvalue=0.00016468206148499977) 
+
+
+Number of Q-nodes = 1
+PearsonRResult(statistic=0.771338651078287, pvalue=3.325268728374663e-34)      
+SpearmanrResult(correlation=0.6892462679804294, pvalue=7.250308134513754e-25)  
+
+
+Number of Q-nodes = 2
+PearsonRResult(statistic=0.8420380421172625, pvalue=6.518829591357251e-11)     
+SpearmanrResult(correlation=0.7976743877140945, pvalue=3.4027525364194745e-09)
